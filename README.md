@@ -38,6 +38,9 @@ HI8 APP 畫面展示
 影片
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/cNkE85VH3CA/0.jpg)](https://www.youtube.com/watch?v=cNkE85VH3CA "Unity Snake Game")
 
+# 他人頁面 - 設置列表
+
+![20220613_015640](https://user-images.githubusercontent.com/87661821/173246650-aeb533ac-07c9-4a81-bffa-75c1adb2ff11.gif)
 
 
 

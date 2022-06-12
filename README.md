@@ -9,6 +9,9 @@ HI8 APP 畫面展示
 
 ![20220613_013546](https://user-images.githubusercontent.com/87661821/173245901-6385595b-f4f1-48d9-930a-fddeac362004.gif)
 
+# 瀑布流-分享
+
+![20220613_013206](https://user-images.githubusercontent.com/87661821/173245745-52a6ebd7-e4f0-4a07-b5a7-48f2965d49b5.gif)
 
 # 留言頁面
 
@@ -25,7 +28,6 @@ HI8 APP 畫面展示
 
 ![20220613_012914](https://user-images.githubusercontent.com/87661821/173245598-2d368e6e-fcee-49cf-b197-ea1a86322647.gif)
 
-# 瀑布流-分享
-![20220613_013206](https://user-images.githubusercontent.com/87661821/173245745-52a6ebd7-e4f0-4a07-b5a7-48f2965d49b5.gif)
+
 
 

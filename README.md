@@ -28,6 +28,11 @@ HI8 APP 畫面展示
 
 ![20220613_012914](https://user-images.githubusercontent.com/87661821/173245598-2d368e6e-fcee-49cf-b197-ea1a86322647.gif)
 
+# 個人頁面 - 設定
+
+![20220613_015215](https://user-images.githubusercontent.com/87661821/173246518-97f03b53-1345-4539-94f9-c1ed18ba1c18.gif)
+
+
 # 個人頁面 - 音樂人列表
 
 影片
